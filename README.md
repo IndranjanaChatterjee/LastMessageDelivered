@@ -6,8 +6,11 @@
 ## It consist of files of
 
 1.HTML
+
 2.CSS
+
 3.JS
+
 4.EXAMPLE PICTURES
 
 
